@@ -16,5 +16,3 @@ To show the results obtained in the paper, simply run the main file as:
 ```
 $ python main.py
 ```
-
-In case that you want to train and/or test, set the train and/or test flag to `True` in the `main_dgm.py` file and then run the same order as before. Note that the results file will be overwritten. 
