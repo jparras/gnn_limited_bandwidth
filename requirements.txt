@@ -1,0 +1,9 @@
+h5py==3.9.0
+joblib==1.1.0
+keras==2.13.1
+matplotlib==3.5.2
+matplotlib2tikz==0.7.6
+numpy==1.21.6
+tabulate==0.9.0
+tensorflow==2.13.0
+tqdm==4.62.3
